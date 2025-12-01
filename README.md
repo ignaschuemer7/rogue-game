@@ -1,4 +1,4 @@
-# Rogue Game - PC TP3 Project
+# Rogue Game 
 
 A Python-based terminal dungeon crawler roguelike game developed as part of a programming course project.
 
